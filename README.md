@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoniOzd
-- 👀 I’m interested in Science, games, coding (ofc)
+- 👀 I’m interested in Science, games, coding 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
